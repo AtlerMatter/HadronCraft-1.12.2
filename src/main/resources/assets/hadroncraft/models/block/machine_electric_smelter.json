@@ -1,0 +1,9 @@
+{
+    "parent": "hadroncraft:block/machine",
+    "textures": {
+        "top": "hadroncraft:blocks/machine",
+        "front": "hadroncraft:blocks/machine_electric_smelter",
+        "side": "hadroncraft:blocks/machine_side",
+        "back": "hadroncraft:blocks/machine_input"
+    }
+}

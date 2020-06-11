@@ -1,0 +1,24 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients":[
+		{
+			"type": "forge:ore_dict",
+			"ore": "dustTin"
+		},
+		{
+			"type": "forge:ore_dict",
+			"ore": "dustCopper"
+		},
+		{
+			"type": "forge:ore_dict",
+			"ore": "dustCopper"
+		},
+		{
+			"type": "forge:ore_dict",
+			"ore": "dustCopper"
+		}
+	],
+	"result": {
+		"item": "hadroncraft:dust_bronze"
+	}
+}

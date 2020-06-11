@@ -1,0 +1,9 @@
+{
+	"forge_marker": 1,
+    "variants": {
+        "facing=north": { "model": "hadroncraft:generator_combustion" },
+        "facing=south": { "model": "hadroncraft:generator_combustion", "y": 180 },
+        "facing=west":  { "model": "hadroncraft:generator_combustion", "y": 270 },
+        "facing=east":  { "model": "hadroncraft:generator_combustion", "y": 90 }
+    }
+}

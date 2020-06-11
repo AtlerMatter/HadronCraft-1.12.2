@@ -1,0 +1,9 @@
+{
+	"forge_marker": 1,
+    "variants": {
+        "facing=north": { "model": "hadroncraft:machine_electric_smelter" },
+        "facing=south": { "model": "hadroncraft:machine_electric_smelter", "y": 180 },
+        "facing=west":  { "model": "hadroncraft:machine_electric_smelter", "y": 270 },
+        "facing=east":  { "model": "hadroncraft:machine_electric_smelter", "y": 90 }
+    }
+}

@@ -1,0 +1,44 @@
+#Ores
+tile.hadroncraft.ore_copper.name=Copper Ore
+tile.hadroncraft.ore_tin.name=Tin Ore
+tile.hadroncraft.ore_silver.name=Silver Ore
+tile.hadroncraft.ore_uranium.name=Uranium Ore
+tile.hadroncraft.ore_plutonium.name=Plutonium Ore
+
+
+#Blocks
+
+
+#Wires
+tile.hadroncraft.wire_tin.name=Tin Wire
+tile.hadroncraft.wire_iron.name=Iron Wire
+tile.hadroncraft.wire_lithium.name=Lithium Wire
+tile.hadroncraft.wire_tungsten.name=Tungsten Wire
+tile.hadroncraft.wire_aluminium.name=Aluminium Wire
+tile.hadroncraft.wire_gold.name=Gold Wire
+tile.hadroncraft.wire_copper.name=Copper Wire
+tile.hadroncraft.wire_silver.name=Silver Wire
+
+
+#Machines
+tile.hadroncraft.machine_electric_smelter.name=Electric Smelter
+tile.hadroncraft.generator_combustion.name=Combustion Generator
+
+
+#Items
+item.hadroncraft.dust_copper.name=Copper Dust
+item.hadroncraft.dust_tin.name=Tin Dust
+item.hadroncraft.dust_bronze.name=Bronze Dust
+item.hadroncraft.dust_steel.name=Steel Dust
+
+item.hadroncraft.ingot_copper.name=Copper Ingot
+item.hadroncraft.ingot_tin.name=Tin Ingot
+item.hadroncraft.ingot_silver.name=Silver Ingot
+item.hadroncraft.ingot_aluminium.name=Aluminium Ingot
+item.hadroncraft.ingot_tungsten.name=Tungsten Ingot
+item.hadroncraft.ingot_lithium.name=Lithium Ingot
+item.hadroncraft.ingot_bronze.name=Bronze Ingot
+item.hadroncraft.ingot_steel.name=Steel Ingot
+
+#Creative Tabs
+itemGroup.hadroncraft.HadronCraft=HadronCraft
