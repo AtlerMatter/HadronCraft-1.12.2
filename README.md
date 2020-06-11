@@ -21,7 +21,7 @@ This mod (should) [NOT] be compatible with any mod that supports Redstone Flux A
 Planned Features
 ----------------
 
- [ ] Stop using RF and use my own take on watts, joules, volts and ohms, which will use realistic values and calculations
+ [X] Stop using RF and use my own take on watts, joules, volts and ohms, which will use realistic values and calculations
 
  [ ] Ore processing things like the grinder, crusher, etc
 
