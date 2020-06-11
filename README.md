@@ -21,18 +21,18 @@ This mod (should) [NOT] be compatible with any mod that supports Redstone Flux A
 Planned Features
 ----------------
 
-[]Stop using RF and use my own take on watts, joules, volts and ohms, which will use realistic values and calculations
+[ ]Stop using RF and use my own take on watts, joules, volts and ohms, which will use realistic values and calculations
 
-[]Ore processing things like the grinder, crusher, etc
+[ ]Ore processing things like the grinder, crusher, etc
 
-[]Fission reactors and Fissile Fuel Processing
+[ ]Fission reactors and Fissile Fuel Processing
 
-[]Some form of steam maybe, depending on how i go about doing the reactors
+[ ]Some form of steam maybe, depending on how i go about doing the reactors
 
-[]Fusion reactors: Magnetic Confinement Reactor, Inertial Confinement Reactor, etc
+[ ]Fusion reactors: Magnetic Confinement Reactor, Inertial Confinement Reactor, etc
 
-[]Particle Accelerators and Particle Colliders
+[ ]Particle Accelerators and Particle Colliders
 
-[]In terms of resources: Antimatter, Strange Matter, Exotic Matter, Lead (and later mabe more stuff)
+[ ]In terms of resources: Antimatter, Strange Matter, Exotic Matter, Lead (and later mabe more stuff)
 
 And much much more that i have planned!
