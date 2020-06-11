@@ -1,6 +1,6 @@
 HadronCraft Mod
 =================
-A Technology and electricity Mod for Minecraft 1.7.10
+A Technology and electricity Mod for Minecraft 1.12.2
 -----------------------------------------------------
 
 Summary
